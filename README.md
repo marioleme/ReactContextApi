@@ -2,6 +2,11 @@
 
 # Meteora - E-commerce de Moda
 
+# [O Projeto Online](https://singular-cupcake-d2c46a.netlify.app/)
+
+
+
+
 O Meteora é um projeto de e-commerce em fase de desenvolvimento inicial. Este README fornece informações sobre o projeto, suas funcionalidades e como executá-lo em seu ambiente local.
 
 ![GIF da aplicação em execução](meteora-app.gif)
